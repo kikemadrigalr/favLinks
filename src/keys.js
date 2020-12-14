@@ -4,8 +4,8 @@
 module.exports = {
   database: {
     "host": "localhost",
-    "user": "kikemadrigal",
-    "password": "cm894765",
+    "user": "",
+    "password": "",
     "database": "dblinks",
   }
 }
